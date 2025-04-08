@@ -1,4 +1,7 @@
 venv
+HuggingFace/venv
+MCP/weather/venv
 *.env
 .vscode/
 __pycache__/
+.cursor
